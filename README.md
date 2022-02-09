@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Tony! This profile is still WIP, I'll be adding more and more stuff here soon! 👋
 
 <!--
 **AnthonyDelaCruz/AnthonyDelaCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
