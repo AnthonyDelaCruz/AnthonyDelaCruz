@@ -24,4 +24,4 @@ I work across the stack — from crafting responsive UIs with React and Next.js 
 
 ## Get in Touch
 
-- [LinkedIn](www.linkedin.com/in/tonymdc)
+- [LinkedIn](https://www.linkedin.com/in/tonymdc/)
