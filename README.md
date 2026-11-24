@@ -2,13 +2,13 @@
 
 # Hi, I'm Tony
 
-Senior Software Engineer building full-stack web applications with JavaScript and TypeScript.
+Engineering Lead building scalable full-stack web applications with TypeScript, Node.js, and Google Cloud.
 
-I work across the stack — from crafting responsive UIs with React and Next.js to designing scalable backend services with Node.js and NestJS. I'm a Google Cloud certified developer with a focus on shipping reliable, maintainable software.
+I lead architecture and delivery across the stack — from responsive React and Next.js frontends to resilient Node.js and NestJS backend services on Google Cloud. I focus on shipping reliable, maintainable systems and elevating team engineering practices.
 
 ## Tech Stack
 
-**Frontend:** React, Next.js, TypeScript, HTML/CSS
+**Frontend:** TypeScript, React, Next.js, HTML/CSS
 
 **Backend:** Node.js, NestJS, REST APIs, GraphQL
 
@@ -16,11 +16,11 @@ I work across the stack — from crafting responsive UIs with React and Next.js 
 
 **Data:** PostgreSQL
 
-## What I'm Working On
+## Current Focus
 
-- Exploring AI/LLM integration in web applications
-- Deepening my cloud architecture and platform engineering skills
-- Building developer tools and contributing to open source
+- Integrating AI/LLM capabilities into production web applications
+- Cloud architecture and platform engineering on GCP
+- Building portable AI-assisted developer workflows and tooling
 
 ## Get in Touch
 
